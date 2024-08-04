@@ -93,8 +93,12 @@ Clean Architecture
 Feature
 
 1)For add todo you can do using click add button 
+
 2)To select date use calendra at top
+
 3)To mark done or unmark long press todo
+
 4)For delete click delete icon
+
 5)For edit click on todo and edit todo
 
