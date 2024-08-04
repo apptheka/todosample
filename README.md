@@ -1,7 +1,8 @@
 # Todo App
 
-Project struture
+## Project Structure 🏛
 
+```
 ...
 assets
 
@@ -51,6 +52,9 @@ test
 |   |   |   ├── widgets                 # Common Widgets in Feature test
 ├── helpers                             # Common Test Helpers
 ...
+```
+
+---
 
 
 
